@@ -145,6 +145,8 @@ A kernel that passes its tests can still be slow. This stage covers the memory a
 
 Once these puzzles feel familiar, the [CUDA Kernels](https://www.tensortonic.com/study-plans/cuda-basics) and [Triton Kernels](https://www.tensortonic.com/study-plans/triton-basics) study plans put the same problems in a set order. The [Inference Engineering](https://www.tensortonic.com/guides/inference-engineering) guide shows where these kernels fit in serving large language models, and the [ML Systems and GPU Programming](https://www.tensortonic.com/projects/sheets/ml-systems-gpu-programming) projects take them into full builds.
 
+If you enjoyed the Triton versions of these puzzles most, the [How to Learn Triton](https://www.tensortonic.com/guides/how-to-learn-triton) guide explains how to keep learning Triton after the first few kernels.
+
 ## License
 
 MIT
